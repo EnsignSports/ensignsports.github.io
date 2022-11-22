@@ -1,29 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ensign Sports | Leading bike & accessories distributor in India</title>
-    <link href="https://fonts.googleapis.com/css?family=Karla:400,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.materialdesignicons.com/4.8.95/css/materialdesignicons.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/bd-coming-soon.css">
-    <style>
-        #ensign_logo {
-            height: 50px;
-        }
-    </style>
-</head>
-
-<body class="min-vh-100 d-flex flex-column">
-
-    <header>
-        <div class="container">
-            <nav class="navbar navbar-dark bg-transparenet">
-                <a class="navbar-brand" href="#">
-                    <svg version="1.1" id="ensign_logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ensign_logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 462.72 188.14" style="enable-background:new 0 0 462.72 188.14;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#020202;}
@@ -143,25 +120,3 @@
 	c0-0.56,0-1.12,0-1.68c0,0,0,0,0,0c0-0.52,0.01-1.04,0-1.56c-0.01-0.39,0.12-0.6,0.55-0.59c1.04,0.02,2.08-0.02,3.12,0.03
 	c1.09,0.05,1.82,0.85,1.86,1.96C382.25,138.08,381.58,138.96,380.52,139.13z"/>
 </svg>
-                </a>
-            </nav>
-        </div>
-    </header>
-    <main class="my-auto">
-        <div class="container">
-            <div class="page-title main-section">
-				<h1>We are a leading bicycle & accessories distributor in India</h1>
-				<p>Ensign Sports is a distribution house with no retail outlet of its own.</p>
-				<p>Lets stay connected..</p>
-			</div>
-			<nav class="footer-social-links">
-				<a href="https://instagram.com/ensignsports" class="social-link"><i class="mdi mdi-instagram"></i></a>
-                <!-- <a href="https://facebook.com/ensignsports" class="social-link"><i class="mdi mdi-facebook-box"></i></a> -->
-				<a href="mailto:ensignsports@gmail.com" class="social-link"><i class="mdi mdi-email"></i></a>
-				<a href="https://wa.me/919619679199?text=Hi%20Ensign%20I%20came%20here%20from%20your%20site" target="_blank"><img src="assets/images/whatsapp.svg"></a>
-            </nav>
-        </div>
-    </main>
-</body>
-
-</html>
